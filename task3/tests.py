@@ -1,5 +1,5 @@
 import unittest
-from solution import appearance
+from task3.solution import appearance
 
 
 class TestAppearanceFunction(unittest.TestCase):

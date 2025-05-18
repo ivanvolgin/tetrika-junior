@@ -1,5 +1,6 @@
 import unittest
-from solution import strict
+from task1.solution import strict
+
 
 # === Функции для тестирования ===
 @strict
